@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sher-zulunov
-- 👀 I’m interested in JavaScript, heml, css, Ract and Redux library
+- 👀 I’m interested in JavaScript, html, css, Ract and Redux library
 - 🌱 I’m currently learning How to create websites
 - 📫 How to reach me https://t.me/sherzodzulunov zulunovsherzod@gmail.com
